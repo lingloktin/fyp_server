@@ -6,12 +6,6 @@ These are the code that run as the backend server for the project. To have a bet
 
 ## Prerequisite
 
-<b>Clone this repository</b> 
-
-1. Open the terminal and type `git clone https://derek_szehoyin@bitbucket.org/derek_szehoyin/fyp_server.git` to the terminal
-
-
-
 <b>To install node modules for this project:</b>
 
 1. Type `npm install` in the terminal
